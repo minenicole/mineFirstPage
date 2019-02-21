@@ -1,9 +1,7 @@
 <template lang="html">
     <h2> 인덱스 페이지입니다. </h2>
 </template>
-
-
-<<script>
+<script>
 export default {
     
 }
